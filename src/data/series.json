@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "title": "La casa de papel",
+        "summary": "Ocho ladrones toman rehenes en la Fábrica Nacional de Moneda y Timbre de España, mientras el líder de la banda manipula a la policía para cumplir con su plan.",
+        "image": "https://elcomercio.pe/resizer/ULvgWhC9j_i5iCm9zPDUqINk68A=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IRVNV2GW6RC3FDAUW4VOBOQEC4.jpg",
+        "rating": "9.5",
+        "genre": "Acción",
+        "seasons": "5"
+    },
+    {
+        "id": "2",
+        "title": "Dark",
+        "summary": "La desaparición de un niño lleva a cuatro familias a una frenética búsqueda, mientras descubren un misterio que abarca tres generaciones.",
+        "image": "https://peru21.pe/resizer/CgvTw--98AiO1IG6V4I_vCUP_MQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5SWBYO6YOJDPNITA5GKARRTDUI.jpg",
+        "rating": "9.3",
+        "genre": "Ficción",
+        "seasons": "3"
+    },
+    {
+        "id": "3",
+        "title": "Stranger Things",
+        "summary": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
+        "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV5lteI3eHet1nPBQKC_uEChESjqQfYpRwMWLR0wULt52odnxQtG69JNFDj9N4maZWJWDFZyi2sc1YzZ8mKE4Ajmt7Btva1CnWagGbYXVMp3t4OETM4LwiD70dHu-qWUbBAesQ.jpg?r=c68",
+        "rating": "9.5",
+        "genre": "Ficción",
+        "seasons": "4"
+    },
+    {
+        "id": "4",
+        "title": "Breaking Bad",
+        "summary": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+        "image": "https://i.blogs.es/16e585/breaking-bad/1366_2000.jpg",
+        "rating": "9.5",
+        "genre": "Acción",
+        "seasons": "5"
+    },
+    {
+        "id": "5",
+        "title": "ONE PIECE",
+        "summary": "Monkey D. Luffy y su tripulación pirata exploran un mundo fantástico de océanos infinitos e islas exóticas en busca del mayor tesoro del mundo para convertirse en el próximo Rey Pirata.",
+        "image": "https://www.lacasadeel.net/wp-content/uploads/2023/09/One-Piece-Netflix-2-700x394.webp",
+        "rating": "9.5",
+        "genre": "Acción",
+        "seasons": "1"
+    },
+    {
+        "id": "6",
+        "title": "Black Mirror",
+        "summary": "Esta surrealista serie de antología repleta de historias retorcidas muestra los peores rasgos de la humanidad, sus grandes innovaciones y mucho más.",
+        "image": "https://e.rpp-noticias.io/xlarge/2023/05/11/062806_1426698.jpg",
+        "rating": "9.0",
+        "genre": "Ficción",
+        "seasons": "6"
+    },
+    {
+        "id": "7",
+        "title": "The Witcher",
+        "summary": "Geralt de Rivia, el legendario brujo cazador de monstruos, gravita inexorablemente hacia su destino en un mundo de tormentos y humanas traiciones.",
+        "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQT8CAaXXLoP96rbd4XzKB9uKAUkP9xScDNF-OXW-MxcxYOCR_kIfs12nG0-Bvz4P_V-E0obVEDEH8e8uiaaeS4dY2tF6iOJMaAe.jpg?r=051",
+        "rating": "9.2",
+        "genre": "Fantasía",
+        "seasons": "3"
+    }
+]

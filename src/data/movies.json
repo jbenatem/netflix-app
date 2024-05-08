@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "title": "Jumanji: En la selva",
+        "summary": "Un videojuego absorbe a cuatro estudiantes. Una vez en la selva, deben embarcarse en una búsqueda en sus avatares, que no coinciden para nada con la realidad.",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikdPPZQ2XA0zdUa3oPLeyFsoFOeTVg0evFNqgKziRr8sLSXqnhKQzfVzYYA0YA7Fp1pu2SSosv-VQUDWOsVKabCw9sSZcBGE9SpplhXJ6cKWoIeeOwOjol9JvxzcELt-F5EDgdcg7mIA3W/s675/Jumanji_TVLaint.jpg",
+        "rating": "8.0",
+        "genre": "Fantasía",
+        "duration": "1 h 59 min"
+    },
+    {
+        "id": "2",
+        "title": "Kung Fu Panda 4",
+        "summary": "Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.",
+        "image": "https://larazon.pe/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-124329.jpg",
+        "rating": "8.3",
+        "genre": "Aventura",
+        "duration": "1 h 34 min"
+    },
+    {
+        "id": "3",
+        "title": "Top Gun: Maverick",
+        "summary": "Maverick, quien lleva 30 años de servicio, es ahora instructor de pilotos militares. Una última misión, un sacrificio final, obliga a este maestro de los cielos a enfrentar las heridas abiertas del pasado y sus temores más profundos.",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/5099b0bb5c1a20bc2f43fe3a4934c94412c842a595deb5220d70a7ee959aae29.jpg",
+        "rating": "8.2",
+        "genre": "Acción",
+        "duration": "2 h 11 min"
+    },
+    {
+        "id": "4",
+        "title": "Godzilla y Kong: El nuevo imperio",
+        "summary": "Godzilla y Kong se enfrentan a una amenaza colosal escondida en lo profundo del planeta, desafiando su propia existencia y la supervivencia de la raza humana.",
+        "image": "https://e.rpp-noticias.io/xlarge/2024/03/18/573157_1554528.webp",
+        "rating": "9.5",
+        "genre": "Acción",
+        "duration": "1 h 55 min"
+    },
+    {
+        "id": "5",
+        "title": "Son como niños",
+        "summary": "Un grupo de amigos y excompañeros descubren que envejecer no siempre significa madurar cuando se reúnen para honrar la memoria de su entrenador de baloncesto.",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/bde8881567b130a785647cfa67c3a89c6583ebe6bee758ebf2129b89c7d6a9e8.jpg",
+        "rating": "6.0",
+        "genre": "Comedia",
+        "duration": "1 h 42 min"
+    },
+    {
+        "id": "6",
+        "title": "Vaguito",
+        "summary": "Vaguito, un perro abandonado es rescatado por Pancho un dirigente honesto de una asociación pesquera. Pancho se encuentra enfrentado a una mafia de pescadores y su lucha por impartir justicia desencadenará junto a Vaguito, una serie de eventos por lo que será víctima de una traición en alta mar. Luego de la traición, Vaguito, fiel a su amigo se rehusará a abandonar la playa y se quedará a esperar día tras día al amigo del que no pudo despedirse y que yace en las profundidades del mar.",
+        "image": "https://imgmedia.larepublica.pe/640x371/larepublica/original/2024/04/17/662075c5f7f06c7b9b4b9373.webp",
+        "rating": "8.0",
+        "genre": "Drama",
+        "duration": "1 h 40 min"
+    },
+    {
+        "id": "7",
+        "title": "Oppenheimer",
+        "summary": "Durante la Segunda Guerra Mundial, el teniente general Leslie Groves designa al físico J. Robert Oppenheimer para un grupo de trabajo que está desarrollando el Proyecto Manhattan, cuyo objetivo consiste en fabricar la primera bomba atómica.",
+        "image": "https://www.cnet.com/a/img/resize/6b510aa8f8cb29a69cb3eeabed7d38e70c250065/hub/2024/01/19/d572f9ea-9310-479a-a03a-fc7ec84582b3/oppenheimer-promo.jpg?auto=webp&fit=crop&height=675&precrop=758,426,x0,y253&width=1200",
+        "rating": "9.5",
+        "genre": "Drama",
+        "duration": "3 h 00 min"
+    }
+]
